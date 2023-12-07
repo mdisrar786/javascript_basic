@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(156, 56, 135);
+    text-align: center;
+
+}
+button{
+    width: 200px;
+    height: 50px;
+    color: blueviolet;
+    background-color: yellowgreen;
+    border-radius: 20px;
+   
+    
+}
